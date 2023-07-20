@@ -2,8 +2,8 @@
 
 Two AI projects
 
-- **Minor project**: was to train a image model to recognise human signs of stone, paper and scissor.
-- **Major project**: was to create a model using unsupervised machine learning for predicting the Iris flower's class using the dataset of physical appearance of the flower.   
+- **Minor project**: was to train an image model to recognise human signs of stone, paper and scissor.
+- **Major project**: was to create a model using unsupervised machine learning for predicting the Iris flower's class using the dataset of the physical appearance of the flower.   
 
 ## Project Status
 Completed! ✨<br>
